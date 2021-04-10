@@ -1,0 +1,24 @@
+{
+  "notes": [
+    {
+      "title": "Bob",
+      "text": "Jim",
+      "id": "2"
+    },
+    {
+      "title": "End your connection",
+      "text": "Why are they teaching this after?",
+      "id": "2"
+    },
+    {
+      "title": "Listen on port",
+      "text": "Start the server",
+      "id": "2"
+    },
+    {
+      "title": "Listen on port8080",
+      "text": "Start the server",
+      "id": "2"
+    }
+  ]
+}
